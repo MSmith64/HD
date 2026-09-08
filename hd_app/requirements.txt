@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+pyswisseph>=2.10
+PyMuPDF>=1.24
+requests>=2.32
+geopy>=2.4
+timezonefinder>=6.5
